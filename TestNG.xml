@@ -1,0 +1,11 @@
+<suite name="Capstone Suite">
+<test name="Testing Factorial">
+	<parameter name="browser" value="chrome" />
+<classes>
+<class name="com.factorial.testCases.TC01_Validate_UIElements"/>
+<class name="com.factorial.testCases.TC02_ValidatePlaceholder"/>
+<class name="com.factorial.testCases.TC03_DataDrivenTesting"/>
+<class name="com.factorial.testCases.TC04_PrivacyBug"/>
+</classes>
+</test>
+</suite>
